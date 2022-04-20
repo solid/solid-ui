@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/devel/WWW/2005/10/ajaw/icons"
+   sodipodi:docname="tbl-plus-black.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="34.831858"
+     inkscape:cx="6.7842033"
+     inkscape:cy="6.8328078"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="871"
+     inkscape:window-height="850"
+     inkscape:window-x="290"
+     inkscape:window-y="20"
+     showgrid="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:0.45695361"
+       id="rect2059"
+       width="12.000002"
+       height="12.057419"
+       x="1039.3336"
+       y="-13.029190"
+       transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.99288964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60264905"
+       d="M 1.4964449,1046.4173 C 10.503555,1046.3877 10.503555,1046.3877 10.503555,1046.3877"
+       id="path1320" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.98654211px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.60264905"
+       d="M 6.0678783,1041.8555 L 5.9798859,1051.1823"
+       id="path1322" />
+  </g>
+</svg>

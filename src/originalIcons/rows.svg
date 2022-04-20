@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.42.2"
+   sodipodi:docbase="/devel/WWW/2005/10/ajaw/icons"
+   sodipodi:docname="rows.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16.000000"
+     inkscape:cx="8.4393354"
+     inkscape:cy="6.6663593"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="871"
+     inkscape:window-height="850"
+     inkscape:window-x="421"
+     inkscape:window-y="22"
+     showgrid="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:0.45695361"
+       id="rect2059"
+       width="12.000002"
+       height="12.057419"
+       x="1039.3336"
+       y="-13.029190"
+       transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)" />
+    <rect
+       style="fill:none;fill-opacity:0.45695361"
+       id="rect2799"
+       width="1.0000000"
+       height="12.000000"
+       x="1.0000000"
+       y="1039.3622" />
+    <rect
+       style="fill:none;fill-opacity:0.45695361"
+       id="rect2801"
+       width="10.000000"
+       height="1.0000000"
+       x="1.0000000"
+       y="1038.3622" />
+    <rect
+       style="fill:none;fill-opacity:0.45695361;stroke:#000000;stroke-opacity:1.0000000"
+       id="rect2807"
+       width="10.000000"
+       height="0.0000000"
+       x="15.067581"
+       y="1027.5962" />
+    <rect
+       style="fill:none;fill-opacity:0.45695361;stroke:#000000;stroke-width:0.50000000;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       id="rect2813"
+       width="0.0000000"
+       height="1.0000000"
+       x="11.000000"
+       y="1048.3622" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 8.9000000,1039.0626 L 8.9000000,1039.0626 z "
+       id="path2821"
+       inkscape:export-filename="/devel/WWW/2005/10/ajaw/icons/tbl-columns.png"
+       inkscape:export-xdpi="90.000000"
+       inkscape:export-ydpi="90.000000" />
+    <g
+       id="g2851"
+       transform="matrix(0.000000,-1.000000,1.000000,0.000000,-1033.162,1054.262)">
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/devel/WWW/2005/10/ajaw/icons/tbl-columns.png"
+         id="path2815"
+         d="M 5.1000000,1047.2622 C 5.1000000,1038.2622 5.1000000,1038.2622 5.1000000,1038.2622 L 15.100000,1038.2622 L 15.100000,1038.2622 L 15.100000,1047.2622 L 15.100000,1047.2622 L 15.100000,1040.2622"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:0.58278143" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/devel/WWW/2005/10/ajaw/icons/tbl-columns.png"
+         id="path2817"
+         d="M 5.0000000,1040.3622 C 15.000000,1040.3622 15.000000,1040.3622 15.000000,1040.3622 L 15.000000,1040.3622 L 15.000000,1040.3622"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:0.58278143" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/devel/WWW/2005/10/ajaw/icons/tbl-columns.png"
+         id="path2819"
+         d="M 7.0000000,1038.3622 C 7.0000000,1047.3622 7.0000000,1047.3622 7.0000000,1047.3622 L 7.0000000,1047.3622 L 7.0000000,1047.3622"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:0.58278143" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/devel/WWW/2005/10/ajaw/icons/tbl-columns.png"
+         id="path2823"
+         d="M 13.000000,1038.3622 C 13.000000,1047.3622 13.000000,1047.3622 13.000000,1047.3622 L 13.000000,1047.3622 L 13.000000,1047.3622"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:0.58278143" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/devel/WWW/2005/10/ajaw/icons/tbl-columns.png"
+         id="path2825"
+         d="M 11.000000,1047.3622 C 11.000000,1038.3622 11.000000,1038.3622 11.000000,1038.3622"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:0.58278143" />
+      <path
+         inkscape:export-ydpi="90.000000"
+         inkscape:export-xdpi="90.000000"
+         inkscape:export-filename="/devel/WWW/2005/10/ajaw/icons/tbl-columns.png"
+         id="path2827"
+         d="M 9.0000000,1047.3622 C 9.0000000,1038.3622 9.0000000,1038.3622 9.0000000,1038.3622 L 9.0000000,1038.3622 L 9.0000000,1038.3622 L 9.0000000,1038.3622"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:0.58278143" />
+    </g>
+    <rect
+       style="fill:none;fill-opacity:0.45695361;stroke:none;stroke-width:0.20000000;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       id="rect2831"
+       width="12.000000"
+       height="12.000000"
+       x="3.8999999"
+       y="1038.0625"
+       inkscape:export-filename="/devel/WWW/2005/10/ajaw/icons/tbl-columns.png"
+       inkscape:export-xdpi="90.000000"
+       inkscape:export-ydpi="90.000000" />
+  </g>
+</svg>

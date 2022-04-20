@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/devel/dig/2005/ajar/ajaw/icons"
+   sodipodi:docname="tbl-minus-red-12.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="45.198604"
+     inkscape:cx="9.3975014"
+     inkscape:cy="8.887937"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1073"
+     inkscape:window-height="1006"
+     inkscape:window-x="157"
+     inkscape:window-y="91"
+     showgrid="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#d71f1b;fill-opacity:1;stroke:#ff1eff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3176"
+       sodipodi:cx="6.5313773"
+       sodipodi:cy="1045.4719"
+       sodipodi:rx="5.4404216"
+       sodipodi:ry="5.1676831"
+       d="M 11.971799 1045.4719 A 5.4404216 5.1676831 0 1 1  1.0909557,1045.4719 A 5.4404216 5.1676831 0 1 1  11.971799 1045.4719 z"
+       transform="matrix(1.1028557,0,0,1.1610614,-0.2031668,-168.49495)" />
+    <rect
+       style="fill:none;fill-opacity:0.45695361"
+       id="rect2059"
+       width="12.000002"
+       height="12.057419"
+       x="1039.3336"
+       y="-13.029190"
+       transform="matrix(0.000000,1.000000,-1.000000,0.000000,0.000000,0.000000)" />
+    <path
+       style="opacity:0.98999999;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.92857325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.9642866,1045.3979 C 10.035713,1045.3265 10.035713,1045.3265 10.035713,1045.3265"
+       id="path1320" />
+  </g>
+</svg>
